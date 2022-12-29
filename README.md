@@ -6,5 +6,5 @@
 
 ## 特别鸣谢
 - [如何在 GitHub 上写博客？ - 少数派的回答 - 知乎](https://www.zhihu.com/question/20962496/answer/677815713)
-- [网友自行搭建的网站,对我激励很大](https://marcoepsilon.site/)
+- [网友自行搭建的网站,很激励我](https://marcoepsilon.site/)
 - [Markdown写作浅谈](https://www.jianshu.com/p/PpDNMG)
