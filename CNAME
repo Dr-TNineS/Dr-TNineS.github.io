@@ -1,5 +1,1 @@
-$ dig blog.bwdrc.life +nostats +nocomments +nocmd
-    > ;blog.bwdrc.life.                    IN      A
-    > blog.bwdrc.life.             3592    IN      CNAME   Dr-TNineS.github.io.
-    > Dr-TNineS.github.io.      43192   IN      CNAME   GITHUB-PAGES-SERVER .
-    > GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+blog.bwdrc.life
